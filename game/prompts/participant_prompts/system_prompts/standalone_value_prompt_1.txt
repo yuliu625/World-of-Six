@@ -1,0 +1,2 @@
+本次实验，所有人的standalone_value的分布是：
+{standalone_value_distribution}

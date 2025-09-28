@@ -1,0 +1,6 @@
+{"game_round":1,"participant_id":"Participant1","standalone_value":1,"network_effect":0.75,"price":4.74,"expectation":3,"expectation_payoff":-1.49,"is_participate":false,"real_participant_number":5,"real_payoff":0.0}
+{"game_round":1,"participant_id":"Participant2","standalone_value":2,"network_effect":0.75,"price":4.74,"expectation":4,"expectation_payoff":0.26,"is_participate":true,"real_participant_number":5,"real_payoff":1.01}
+{"game_round":1,"participant_id":"Participant3","standalone_value":3,"network_effect":0.75,"price":4.74,"expectation":3,"expectation_payoff":0.51,"is_participate":true,"real_participant_number":5,"real_payoff":2.01}
+{"game_round":1,"participant_id":"Participant4","standalone_value":4,"network_effect":0.75,"price":4.74,"expectation":3,"expectation_payoff":1.51,"is_participate":true,"real_participant_number":5,"real_payoff":3.01}
+{"game_round":1,"participant_id":"Participant5","standalone_value":5,"network_effect":0.75,"price":4.74,"expectation":3,"expectation_payoff":2.51,"is_participate":true,"real_participant_number":5,"real_payoff":4.01}
+{"game_round":1,"participant_id":"Participant6","standalone_value":6,"network_effect":0.75,"price":4.74,"expectation":3,"expectation_payoff":3.51,"is_participate":true,"real_participant_number":5,"real_payoff":5.01}

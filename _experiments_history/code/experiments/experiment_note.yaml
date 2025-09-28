@@ -1,0 +1,26 @@
+path:
+  raw_results: ''
+  excel_results: ''
+  figure_results: ''
+
+no_history_no_guidance:
+  note: '完全没有任何额外辅助的baseline，和直接调用API没有区别。'
+  experiments:
+    1: '测试示例。'
+    2: '测试示例。'
+    3: 'qwen15, beta=0.25, 不做引导，没有历史信息。'
+    4: 'qwen15, beta=0.75, 不做引导，没有历史信息。'
+    5: 'qwen_max, 不做引导，没有历史信息。查看更大参数规模模型的情况。'
+
+no_history:
+  note: '没有历史信息，但引导模型该怎么做。使用的方法是CoT。'
+  experiments:
+    1: 'qwen15, 使用CoT引导模型进行思考和计算。'
+
+no_guidance:
+  note: 'qwen_15, 没有引导，但会使用历史信息。价格会以多种顺序和方式给出。'
+  experiments:
+    1: 'qwen_15, 相同价格，重复给agent6次。'
+    2: 'qwen_15, 顺序价格。'
+    3: 'qwen_15, 倒序价格'
+

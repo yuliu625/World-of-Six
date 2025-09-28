@@ -1,0 +1,6 @@
+{"game_round":1,"participant_id":"Participant1","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我可以通过增加网络边际收益来弥补基础费用，并且保持正的收益。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我可以通过增加网络边际收益来弥补基础费用，并且保持正的收益。"}
+{"game_round":1,"participant_id":"Participant2","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我可以通过增加网络边际收益来抵消基础费用，并且能够获得一个合理的收益。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我可以通过增加网络边际收益来抵消基础费用，并且能够获得一个合理的收益。"}
+{"game_round":1,"participant_id":"Participant3","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我可以得到正的收益。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我可以得到正的收益。"}
+{"game_round":1,"participant_id":"Participant4","content":"```json\n{\n    \"expectation\": 4,\n    \"reason\": \"经过计算，我认为我可以得到正的收益。\"\n}\n```","expectation":4,"reason":"经过计算，我认为我可以得到正的收益。"}
+{"game_round":1,"participant_id":"Participant5","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我可以通过增加网络边际收益来补偿可能的价格成本，并且至少可以得到一个较高的独立收益。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我可以通过增加网络边际收益来补偿可能的价格成本，并且至少可以得到一个较高的独立收益。"}
+{"game_round":1,"participant_id":"Participant6","content":"```json\n{\n    \"expectation\": 5,\n    \"reason\": \"根据网络边际收益和我自己的standalone_value，我认为5个人参与会给我带来正的收益。\"\n}\n```","expectation":5,"reason":"根据网络边际收益和我自己的standalone_value，我认为5个人参与会给我带来正的收益。"}

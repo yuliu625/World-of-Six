@@ -1,0 +1,5 @@
+本次实验，
+所有人共同的情况是：
+{network_effect}
+你的具体情况是：
+{participant_attribute}

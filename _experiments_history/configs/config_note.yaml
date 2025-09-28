@@ -1,0 +1,7 @@
+
+participant_attributes:
+  default: '默认的6个人的情况。standalone_value为[1, 2, 3, 4, 5, 6]'
+
+network_effects_with_prices:
+  default: ''
+  1: ''

@@ -1,0 +1,24 @@
+path:
+  base_path: 'D:\document\code\paper\World-of-Six\results'
+  raw_results: ${path.base_path}/results_raw
+  excel_results: ${path.base_path}/results_excel
+  figure_results: ${path.base_path}/results_figures
+
+no_history_no_guidance:
+  note: '完全没有任何额外辅助的baseline，和直接调用API没有区别。'
+  experiments:
+    1: '不进行引导，不给予历史。'
+
+#no_history:
+#  note: '没有历史信息，但引导模型该怎么做。使用的方法是CoT。'
+#  experiments:
+#    1: 'qwen15, 使用CoT引导模型进行思考和计算。'
+
+no_guidance:
+  note: 'qwen_max, 没有引导，但会使用历史信息。价格会以多种顺序和方式给出。'
+  experiments:
+    1: '相同价格，重复给agent6次。每种实验会重复10次。'
+    2: '以由低到高的方式给出价格。'
+    3: '以由高到低的方式给出价格。'
+    4: '以随机顺序的方式给出价格。'
+

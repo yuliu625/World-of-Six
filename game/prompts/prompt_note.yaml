@@ -1,0 +1,60 @@
+path:
+  base_path: 'D:\document\code\paper\World-of-Six\game\prompts\participant_prompts'
+  system_prompts: ${path.base_path}/system_prompts
+  message_prompts: ${path.base_path}/message_prompts
+
+system_prompts:
+  game_description_prompt_1:
+    note: '最初的对于World of Six实验描述的prompt。'
+    path: ${path.base_path}/system_prompts/game_description_prompt_1.txt
+    kwargs: None
+  game_description_prompt_2:
+    note: '改进的对于World of Six实验描述的prompt。参与者不再做出选择，而是去判断和计算效用'
+    path: ${path.base_path}/system_prompts/game_description_prompt_2.txt
+    kwargs: None
+  return_format_prompt_1:
+    note: '要求返回结果格式的prompt，说明了JSON和2个字段的要求。'
+    path: ${path.base_path}/system_prompts/system_prompts\return_format_prompt_1.txt
+    kwargs: None
+  return_format_prompt_2:
+    note: '要求返回结果格式的prompt，说明了JSON和2个字段的要求。删除了one-shot引导，避免低智力模型错误使用引导。'
+    path: ${path.base_path}/system_prompts/return_format_prompt_2.txt
+    kwargs: None
+  return_format_prompt_3:
+    note: '要求返回结果格式的prompt，说明了JSON和2个字段的要求。要求agent给出计算和思考过程。'
+    path: ${path.base_path}/system_prompts/return_format_prompt_3.txt
+    kwargs: None
+  standalone_value_prompt_template_1:
+    note: '说明所有人standalone_value的分布情况，默认以json格式的list给出。'
+    path: ${path.base_path}/system_prompts/standalone_value_prompt_1.txt
+    kwargs: ['standalone_value_distribution']
+  participant_attribute_prompt_template_1:
+    note: '说明所有人全局的network_effect的共同设置，说明每个具体participant的设置，即standalone_value，默认以json格式的list[dict]给出。'
+    path: ${path.base_path}/system_prompts/participant_attribute_prompt_1.txt
+    kwargs: ['network_effect', 'participant_attribute']
+
+message_prompts:
+  round_prices_prompt_1:
+    note: '说明当前轮所给出的价格，以json格式的dict给出。'
+    path: ${path.base_path}/message_prompts/round_prices_prompt_1.txt
+    kwargs: ['round_price_str']
+  history_prompt_1:
+    note: '说明上一轮实际参与的人数。'
+    path: ${path.base_path}/message_prompts/history_prompt_1.txt
+    kwargs: None
+  inference_prompt_1:
+    note: '要求agent做出回答，不做任何引导。'
+    path: ${path.base_path}/message_prompts/inference_prompt_1.txt
+    kwargs: None
+  inference_prompt_2:
+    note: '要求agent做出回答，不做任何引导。要求分析，但是只有很少的agent进行分析。'
+    path: ${path.base_path}/message_prompts/inference_prompt_2.txt
+    kwargs: None
+  inference_prompt_3:
+    note: '使用CoT引导，告诉agent如何思考问题。一个详细的模板，告诉模型如何思考和计算。'
+    path: ${path.base_path}/message_prompts/inference_prompt_3.txt
+    kwargs: None
+  inference_prompt_4:
+    note: '使用CoT引导，告诉agent如何思考问题。一个简化的模板，告诉模型该思考的内容。'
+    path: ${path.base_path}/message_prompts/inference_prompt_4.txt
+    kwargs: None

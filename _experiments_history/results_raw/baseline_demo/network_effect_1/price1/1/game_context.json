@@ -1,0 +1,6 @@
+{"game_round":1,"participant_id":"Participant1","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我可以得到正的收益。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我可以得到正的收益。"}
+{"game_round":1,"participant_id":"Participant2","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我能够从网络效应中获得正的收益，并且我的个人价值（2）加上可能的网络效应收益超过基础费用，所以我会选择参与。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我能够从网络效应中获得正的收益，并且我的个人价值（2）加上可能的网络效应收益超过基础费用，所以我会选择参与。"}
+{"game_round":1,"participant_id":"Participant3","content":"```json\n{\n    \"expectation\": 3,\n    \"reason\": \"经过计算，我认为我可以得到正的收益。\"\n}\n```","expectation":3,"reason":"经过计算，我认为我可以得到正的收益。"}
+{"game_round":1,"participant_id":"Participant4","content":"```json\n{\n    \"expectation\": 4,\n    \"reason\": \"经过计算，我认为我可以得到正的收益。\"\n}\n```","expectation":4,"reason":"经过计算，我认为我可以得到正的收益。"}
+{"game_round":1,"participant_id":"Participant5","content":"```json\n{\n    \"expectation\": 5,\n    \"reason\": \"经过计算，我认为我可以得到正的收益。\"\n}\n```","expectation":5,"reason":"经过计算，我认为我可以得到正的收益。"}
+{"game_round":1,"participant_id":"Participant6","content":"```json\n{\n    \"expectation\": 4,\n    \"reason\": \"经过计算，我认为我有较高的概率可以得到正的收益，并且网络效应可能使我受益更多。\"\n}\n```","expectation":4,"reason":"经过计算，我认为我有较高的概率可以得到正的收益，并且网络效应可能使我受益更多。"}
