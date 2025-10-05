@@ -77,8 +77,8 @@ $$
 - [前置研究](https://github.com/yuliu625/Simulate-the-Prisoners-Dilemma-with-Agents): 我基于`autogen`的更早期尝试，研究了 LLM 智能体在囚徒困境等简单博弈场景下的行为。
 - [后续研究](): 本论文的研究思路已通过更先进的方法得到进一步验证和扩展。相关工作正在投稿中，其代码仓库将在论文被接收后公开。
 ### 我的其他仓库
-- [Agent Development Toolkit](https://github.com/yuliu625/Yu-Agent-Development-Toolkit): 一个基于 `langchain` 和 `langgraph` 的智能体开发工具箱，包含我关于智能体架构和设计的最新实践。
-- [Prompt Collection](https://github.com/yuliu625/Yu-Prompt-Collection): 一个使用 `jinja2` 模板语法管理的 Prompt 库，用于高效管理和复用各种 Prompt 模板。
-- [Deep Learning Toolkit](https://github.com/yuliu625/Yu-Deep-Learning-Toolkit): 我日常任务中累计的深度学习工具。
-- [Flash Boilerplate](https://github.com/yuliu625/Yu-Flash-Boilerplate): 我为我的深度学习项目构建的基础模板仓库。
+- [Agent-Development-Toolkit](https://github.com/yuliu625/Yu-Agent-Development-Toolkit): 一个基于 `langchain` 和 `langgraph` 的智能体开发工具箱，包含我关于智能体架构和设计的最新实践。
+- [Prompt-Collection](https://github.com/yuliu625/Yu-Prompt-Collection): 一个使用 `jinja2` 模板语法管理的 Prompt 库，用于高效管理和复用各种 Prompt 模板。
+- [Deep-Learning-Toolkit](https://github.com/yuliu625/Yu-Deep-Learning-Toolkit): 我日常任务中累计的深度学习工具。
+- [Flash-Boilerplate](https://github.com/yuliu625/Yu-Flash-Boilerplate): 我为我的深度学习项目构建的基础模板仓库。
 
