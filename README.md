@@ -81,11 +81,11 @@ This repository is an early research project and is shared solely to present the
 
 ### Related Research
 - [Previous Work](https://github.com/yuliu625/Simulate-the-Prisoners-Dilemma-with-Agents): My earlier attempt using `autogen` to study the behavior of LLM agents in simple games like the Prisoner's Dilemma.
-- [Subsequent Work](https://www.google.com/search?q=): The research ideas from this paper have been further validated and expanded upon with more advanced methods. The related work is currently under submission, and its code repository will be made public once the paper is accepted.
+- [Subsequent Work](): The research ideas from this paper have been further validated and expanded upon with more advanced methods. The related work is currently under submission, and its code repository will be made public once the paper is accepted.
 
 ### My Other Repositories
-- [Agent Development Toolkit](https://github.com/yuliu625/Yu-Agent-Development-Toolkit): An agent development toolkit based on `langchain` and `langgraph`, which includes my latest practices on agent architecture and design.
-- [Prompt Collection](https://github.com/yuliu625/Yu-Prompt-Collection): A library of prompts managed using `jinja2` template syntax for efficient management and reuse of various prompt templates.
-- [Deep Learning Toolkit](https://github.com/yuliu625/Yu-Deep-Learning-Toolkit): A collection of deep learning tools that I have accumulated from my daily tasks.
-- [Flash Boilerplate](https://github.com/yuliu625/Yu-Flash-Boilerplate): A base template repository I built for my deep learning projects.
+- [Agent-Development-Toolkit](https://github.com/yuliu625/Yu-Agent-Development-Toolkit): An agent development toolkit based on `langchain` and `langgraph`, which includes my latest practices on agent architecture and design.
+- [Prompt-Collection](https://github.com/yuliu625/Yu-Prompt-Collection): A library of prompts managed using `jinja2` template syntax for efficient management and reuse of various prompt templates.
+- [Deep-Learning-Toolkit](https://github.com/yuliu625/Yu-Deep-Learning-Toolkit): A collection of deep learning tools that I have accumulated from my daily tasks.
+- [Flash-Boilerplate](https://github.com/yuliu625/Yu-Flash-Boilerplate): A base template repository I built for my deep learning projects.
 
